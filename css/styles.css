@@ -1,0 +1,47 @@
+* {
+  box-sizing: border-box;
+}
+body{
+  margin: 0;
+}
+h1{
+  padding: 0rem;
+  margin: 0;
+  font-style: normal;
+  font-family: Brush Script MT;
+  font-size:4.5rem;
+  color: #1c1427
+}
+p{
+    margin: 0;
+  padding: 0rem;
+  font-style: normal;
+  font-family: Lucida bright;
+  font-size: 1.6rem;
+  color: #1c1427
+}
+.Artisticimg{
+  background-color:#9fd8df;
+  position: relative;
+  background-position:center;
+  background-size: cover;
+  height: 45.1rem;
+  padding:8% 14% 35% 20%;
+}
+.top-container{
+  width:100%;
+  margin-top:10%;
+  margin-left: auto;
+  margin-right: auto;
+}
+/*.middel-container{
+  background-color: red;
+  width: 200px;
+  height: 200px;
+
+}
+.bottom-container{
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+}*/
